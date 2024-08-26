@@ -1,0 +1,55 @@
+.container1 {
+	background-image: url("../img/bg001.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: flex;
+}
+
+.container2 {
+	background-image: url("../img/bg002.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: flex;
+}
+
+.container3 {
+	background-image: url("../img/bg003.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: flex;
+}
+
+.container4 {
+	background-image: url("../img/bg004.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: flex;
+}
+
+.container5 {
+	background-image: url("../img/bg005.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: flex;
+}
+
+.container6 {
+	background-image: url("../img/bg006.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: flex;
+}
+
+.container7 {
+	background-image: url("../img/bg007.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: flex;
+}
+
+.container8 {
+	background-image: url("../img/bg008.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: flex;
+}

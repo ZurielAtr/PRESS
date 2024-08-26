@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<title>Evra Gob</title>
+	<link rel="stylesheet" href="css/main.css" />
+	<link rel="stylesheet" href="css/file1.css" />
+</head>
+
+<body>
+	<div class="container1">
+		<script>
+			var confgData = {{{.}}};
+			var sequenceId1 = confgData.presentations[confgData.presentationIndex].sequences[0].id;
+		</script>
+		<div style="display: flex; flex-direction: row; justify-content: space-between">
+			<button onclick="CLMPlayer.gotoSlide(sequenceId1, '02_evraGob_002.html',null)"
+				style="width: 100vw; height: 100vh;"></button>
+		</div>
+	</div>
+</body>
+
+</html>
